@@ -1,0 +1,271 @@
+"['Battery_percentage', 'Traveled_distance', 'Combination_method_local']",0.913543858823922,-1.39169343066424,0.478149571840321
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",0.878234343904878,0.520845498097536,-1.39907984200241
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'Occdist_scale']",0.866951909187372,0.534147830958983,-1.40109974014636
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.837273051160928,0.568394567318718,-1.40566761847965
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",0.834234922716858,0.571841117293729,-1.40607604001059
+"['Battery_percentage', 'Occdist_scale']",0.833658931087132,0.572493328070327,-1.40615225915746
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",0.579659262135366,0.827307940973251,-1.40696720310862
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'Goal_distance_bias']",0.54142091235882,-1.40214651126401,0.860725598905192
+"['Mission_success', 'Transform_tolerance_local']",0.522595544982821,0.876757771967242,-1.39935331695006
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.508823730591427,0.888314614834273,-1.3971383454257
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'Goal_distance_bias']",0.507168694636548,-1.39686250086862,0.889693806232076
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",0.50601457799275,0.890654345904488,-1.39666892389724
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",0.495800763488352,-1.39491223965728,0.89911147616893
+"['Mission_success', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.489948695753509,0.903921951467567,-1.39387064722108
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.479341377545737,0.912576629657258,-1.39191800720299
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",0.46252282605271,-1.38865265048029,0.926129824427584
+"['Mission_success', 'RNS', 'DWA_failed', 'xy_goal_tolerance']",0.448668362897628,-1.38580847091934,0.937140108021716
+"['Mission_success', 'DWA_new_plan', 'xy_goal_tolerance']",0.443347022238653,-1.38467934231885,0.941332320080195
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",0.373532967138322,0.99448490451283,-1.36801787165115
+"['Battery_percentage', 'Mission_time', 'Goal_distance_bias']",0.372640462448727,-1.36778301705788,0.995142554609155
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",0.37054595777587,-1.36722973354606,0.996683775770192
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'DWA_failed', 'Occdist_scale']",0.364033314430078,1.0014569628918,-1.36549027732188
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.346873239493792,1.01389619660761,-1.3607694361014
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.333713636448683,1.02330132531632,-1.357014961765
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",0.326409697409568,1.02847150504138,-1.35488120245094
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'Occdist_scale']",0.317804557228109,1.03451726100887,-1.35232181823697
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",0.315796821344832,-1.35171760792189,1.03592078657706
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Transform_tolerance_local']",0.31478376118182,1.03662796336989,-1.35141172455171
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Cost_scaling_factor_local']",0.309568154593961,-1.34982619715969,1.04025804256573
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",0.272542020629003,1.06551542464122,-1.33805744527023
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",0.247495344349451,1.08209624015141,-1.32959158450086
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",0.243712197718812,1.08456558260703,-1.32827778032584
+"['Battery_percentage', 'RNS', 'recovery_executed', 'Goal_distance_bias']",0.234066586064938,-1.32488660571821,1.09082001965328
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'xy_goal_tolerance']",0.200719034963462,-1.31270596208925,1.11198692712579
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'Occdist_scale']",0.197773666500377,1.11382260541566,-1.31159627191604
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",0.191849488648878,1.11749823645303,-1.30934772510191
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.189026217178928,1.1192421455348,-1.30826836271373
+"['Mission_success', 'DWA_new_plan', 'Occdist_scale']",0.185818211878529,1.12121761483608,-1.30703582671461
+"['Battery_percentage', 'RNS', 'recovery_executed', 'Occdist_scale']",0.167587505179649,1.13232129997747,-1.29990880515712
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Publish_frequency_global']",0.155537730123709,1.13954621776632,-1.29508394789003
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",0.140716668301689,1.14830860740725,-1.28902527570894
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'Occdist_scale']",0.133810939271766,1.15234469927877,-1.28615563855053
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.115217455551171,1.16306473529807,-1.27828219084924
+"['Mission_success', 'RNS', 'recovery_executed', 'Goal_distance_bias']",0.106256981081089,-1.27441145958525,1.16815447850416
+"['Battery_percentage', 'Error_rotating_goal', 'Path_distance_bias']",0.088623687761419,1.17802582692702,-1.26664951468844
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",0.079890200509914,1.18284399312822,-1.26273419363814
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.078551270314083,1.18357851536502,-1.2621297856791
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'Occdist_scale']",0.074264344889713,1.18592285710556,-1.26018720199528
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",0.065767807392434,-1.25630367901174,1.19053587161931
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",0.059600867049294,1.19385630040249,-1.25345716745178
+"['Battery_percentage', 'Traveled_distance', 'Publish_frequency_global']",0.055225423893185,1.19619798191781,-1.25142340581099
+"['Mission_success', 'RNS', 'DWA_failed', 'Occdist_scale']",0.049408834278137,1.19929275414911,-1.24870158842725
+"['Mission_success', 'Mission_time', 'Cost_scaling_factor_local']",0.016333027941709,-1.23282970201428,1.21649667407257
+"['Mission_success', 'DWA_new_plan', 'min_vel_x']",0.015822554864029,1.21675693684816,-1.23257949171218
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Cost_scaling_factor_local']",0.013087953895637,-1.23123639918988,1.21814844529424
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",-0.013206470731097,1.23129470338846,-1.21808823265737
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'xy_goal_tolerance']",-0.014728420668454,-1.21731423938981,1.23204266005826
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-0.01639102472178,1.23285811925776,-1.21646709453598
+"['Mission_success', 'Occdist_scale']",-0.017192089693696,1.23325041406249,-1.2160583243688
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",-0.019237142812592,1.23425012793761,-1.21501298512502
+"['Battery_percentage', 'DWA_failed', 'Occdist_scale']",-0.024781259510895,1.23694745444052,-1.21216619492963
+"['Mission_success', 'Cost_scaling_factor_global']",-0.028819477940942,1.23890027722236,-1.21008079928142
+"['Battery_percentage', 'Traveled_distance', 'DWA_failed', 'Occdist_scale']",-0.03397878223333,1.24138070183741,-1.20740191960408
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.038318054960303,-1.20513619631109,1.24345425127139
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.052653921708867,-1.19756873461823,1.25022265632709
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Goal_distance_bias']",-0.054903116946617,-1.19637001177791,1.25127312872453
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Transform_tolerance_local']",-0.05998610229731,1.25363566672249,-1.19364956442518
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-0.069655178395439,-1.18843081240516,1.2580859908006
+"['Battery_percentage', 'Traveled_distance', 'Goal_distance_bias']",-0.080145058919625,-1.1827040556726,1.26284911459222
+"['Mission_success', 'Mission_time', 'Occdist_scale']",-0.08226801017499,1.26380484422466,-1.18153683404967
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'Occdist_scale']",-0.085839359712768,1.26540636822689,-1.17956700851412
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",-0.089685016363853,1.26712211955563,-1.17743710319178
+"['Mission_success', 'Mission_time', 'recovery_executed', 'Goal_distance_bias']",-0.103767237347645,-1.16955990042148,1.27332713776913
+"['Mission_success', 'Mission_time', 'Goal_distance_bias']",-0.11361330878453,-1.16397957261485,1.27759288139938
+"['Mission_success', 'Goal_distance_bias']",-0.115753648177949,-1.1627585922824,1.27851224046035
+"['Battery_percentage', 'Mission_time', 'Cost_scaling_factor_local']",-0.137147335746412,-1.15039842213675,1.28754575788316
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",-0.137605091987855,1.28773594409009,-1.15013085210224
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.140376910930861,1.28888478439981,-1.14850787346895
+"['Battery_percentage', 'Mission_time', 'Occdist_scale']",-0.151125072558905,1.29329440714966,-1.14216933459075
+"['Battery_percentage', 'Cost_scaling_factor_global']",-0.173065772131497,1.30207234609467,-1.12900657396317
+"['Mission_success', 'DWA_failed', 'xy_goal_tolerance']",-0.184331152673759,-1.12213114177425,1.30646229444801
+"['Mission_success', 'Combination_method_local']",-0.186552279717495,1.30731843121402,-1.12076615149652
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Path_distance_bias']",-0.203057839984328,1.31358322373258,-1.11052538374826
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.206858690119865,-1.10814282024489,1.31500151036476
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-0.209633885470873,1.31603130260193,-1.10639741713105
+"['Mission_success', 'RNS', 'recovery_executed', 'Occdist_scale']",-0.210596143442927,1.316387229577,-1.10579108613407
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Path_distance_bias']",-0.212791967267038,1.31719724065301,-1.10440527338597
+"['Mission_success', 'Mission_time', 'recovery_executed', 'Occdist_scale']",-0.216200320151692,1.31844848439192,-1.10224816424023
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.223852117224804,1.3212306820264,-1.0973785648016
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'Goal_distance_bias']",-0.228979035837985,-1.09409496438253,1.32307400022051
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.233992494651688,1.32486032673835,-1.09086783208666
+"['Mission_success', 'recovery_executed', 'Occdist_scale']",-0.233996974614754,1.32486191580555,-1.0908649411908
+"['Mission_success', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.242952251857945,-1.08506050944016,1.32801276129811
+"['Battery_percentage', 'Mission_time', 'Transform_tolerance_local']",-0.247537286298383,1.32960609857966,-1.08206881228128
+"['Mission_success', 'min_vel_x']",-0.260353668569017,1.33398827111629,-1.07363460254727
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'yaw_goal_tolerance']",-0.265639583507648,1.33576480660505,-1.0701252230974
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-0.272607373657135,-1.06547163113682,1.33807900479396
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-0.274603892984789,-1.06413241562157,1.33873630860636
+"['Mission_success', 'recovery_executed', 'Goal_distance_bias']",-0.282021602900227,-1.05913413214049,1.34115573504071
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.300262114612279,1.34695268014574,-1.04669056553346
+"['Battery_percentage', 'Traveled_distance', 'Publish_frequency_local']",-0.318761352230956,-1.03384746646368,1.35260881869464
+"['Battery_percentage', 'Traveled_distance', 'Transform_tolerance_local']",-0.320857621528262,1.35323549670717,-1.03237787517891
+"['Mission_success', 'Mission_time', 'Transform_tolerance_local']",-0.33502934008566,1.35739554893841,-1.02236620885275
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'Occdist_scale']",-0.342831536586842,1.35962867141353,-1.01679713482669
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.349634110943678,-1.01190826714855,1.36154237809223
+"['Battery_percentage', 'Publish_frequency_local']",-0.37160599898753,-0.99590412840949,1.36751012739702
+"['Battery_percentage', 'DWA_failed', 'yaw_goal_tolerance']",-0.373684099724475,1.36805758701447,-0.994373487289992
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.376975308545707,1.36891859785242,-0.991943289306715
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Combination_method_local']",-0.378746003095131,-0.99063276066489,1.36937876376002
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",-0.39849157802988,1.37436422844113,-0.975872650411249
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Publish_frequency_global']",-0.407044885596875,1.37644010650381,-0.969395220906935
+"['Mission_success', 'Publish_frequency_local']",-0.412876561095348,-0.964949660731201,1.37782622182655
+"['Battery_percentage', 'RNS', 'DWA_failed', 'Occdist_scale']",-0.414156466146408,1.37812725688128,-0.96397079073487
+"['Battery_percentage', 'Mission_time', 'Path_distance_bias']",-0.414544543175331,1.37821830633592,-0.963673763160592
+"['Mission_success', 'DWA_failed', 'Occdist_scale']",-0.428383146283354,1.38139588686969,-0.953012740586335
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.42981501807516,-0.951901938849172,1.38171695692433
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Publish_frequency_global']",-0.433593356585167,-0.948963846362418,1.38255720294759
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Publish_frequency_global']",-0.433900568512115,1.38262507701931,-0.948724508507193
+"['Battery_percentage', 'Mission_time', 'Cost_scaling_factor_global']",-0.43442659028041,1.38274113832672,-0.948314548046307
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.441804756741256,1.38434830220663,-0.942543545465368
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.452107267394545,-0.934420090295123,1.38652735768967
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'xy_goal_tolerance']",-0.456165394231269,-0.931199343558408,1.38736473778968
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.464402218879683,1.38902777507507,-0.924625556195387
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.475302597743049,-0.91585014474874,1.39115274249179
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.490630316494187,-0.903362960027391,1.39399327652158
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-0.495197348818906,1.39480601804531,-0.899608669226408
+"['Battery_percentage', 'Traveled_distance', 'DWA_failed', 'yaw_goal_tolerance']",-0.504981437312127,1.39649478813206,-0.89151335081993
+"['Battery_percentage', 'Error_rotating_goal', 'Combination_method_local']",-0.509352045287353,-0.887873919578191,1.39722596486554
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-0.520465665543309,-0.878554512716044,1.39902017825935
+"['Battery_percentage', 'Transform_tolerance_local']",-0.52282133106454,1.39938842974295,-0.876567098678405
+"['Battery_percentage', 'Error_rotating_goal', 'Publish_frequency_global']",-0.522913920707384,1.3994028174347,-0.876488896727313
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Combination_method_local']",-0.52405732620897,1.3995799538756,-0.875522627666629
+"['Battery_percentage', 'Error_rotating_goal', 'Transform_tolerance_global']",-0.525076599990694,1.39973701750547,-0.874660417514772
+"['Battery_percentage', 'Traveled_distance', 'Cost_scaling_factor_local']",-0.526799862203217,-0.87320089103737,1.40000075324059
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Combination_method_local']",-0.531416691808665,-0.869279418236916,1.40069611004558
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.541281212749945,-0.86084557849118,1.40212679124113
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'xy_goal_tolerance']",-0.553816283589382,-0.850019381617278,1.40383566520666
+"['Battery_percentage', 'Goal_distance_bias']",-0.56210476081678,-0.842793106480414,1.40489786729719
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.569176623444138,1.40576112556191,-0.836584502117772
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-0.572341540524209,-0.833793010733862,1.40613455125807
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Transform_tolerance_global']",-0.572646286428804,-0.833523798550175,1.40617008497898
+"['Mission_success', 'xy_goal_tolerance']",-0.578357536700985,-0.828464698863392,1.40682223556438
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Transform_tolerance_global']",-0.584477537592599,-0.823014344195218,1.40749188178782
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'Occdist_scale']",-0.585651726657068,1.40761689365561,-0.821965166998539
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'yaw_goal_tolerance']",-0.591027134734868,1.40817487904557,-0.817147744310706
+"['Mission_success', 'Update_frequency_global']",-0.61927356781223,1.4107158846781,-0.791442316865866
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.620111572529044,-0.790669532882661,1.4107811054117
+"['Battery_percentage', 'yaw_goal_tolerance']",-0.628001235015894,1.41136602456882,-0.78336478955293
+"['Battery_percentage', 'RNS', 'DWA_failed', 'yaw_goal_tolerance']",-0.629416797510585,1.41146537787995,-0.782048580369362
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'Goal_distance_bias']",-0.629466708584883,-0.782002141206582,1.41146884979146
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'Occdist_scale']",-0.652994624231343,1.41286673157837,-0.75987210734703
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Combination_method_local']",-0.654119152736928,1.41292149232143,-0.7588023395845
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'Combination_method_local']",-0.668949933949483,1.41353913995137,-0.744589206001887
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.671102082377213,1.41361249410849,-0.742510411731275
+"['Mission_success', 'RNS', 'DWA_failed', 'Update_frequency_local']",-0.69085405532366,-0.723235924667921,1.41408997999158
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'Occdist_scale']",-0.69100888715397,1.4140923147442,-0.723083427590226
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'Combination_method_local']",-0.693698231767942,-0.720431106190589,1.41412933795853
+"['Battery_percentage', 'RNS', 'DWA_failed', 'Update_frequency_local']",-0.695134241172705,-0.71901212638123,1.41414636755394
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-0.70797877015302,-0.70623443363323,1.41421320378625
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-0.728309239517038,-0.68569024436455,1.41399948388159
+"['Battery_percentage', 'min_vel_x']",-0.745777431282989,-0.667717846533524,1.41349527781651
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-0.751083355973113,1.41328217747818,-0.662198821505067
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'Path_distance_bias']",-0.752392224237238,1.41322526102452,-0.660833036787287
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'Update_frequency_local']",-0.763854322521057,-0.648798277677709,1.41265260019877
+"['Battery_percentage', 'Mission_time', 'yaw_goal_tolerance']",-0.771578657308124,1.41219070320982,-0.640612045901694
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.777114781084256,-0.634706731161197,1.41182151224545
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-0.779890172284888,-0.631734163612628,1.41162433589752
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-0.782975223955566,-0.628420398091653,1.41139562204722
+"['Mission_success', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.791437442614329,-0.619278855449089,1.41071629806342
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.800339163661788,1.40991851960298,-0.609579355941195
+"['Mission_success', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.821634742616401,1.40765600533793,-0.586021262721531
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.834709752692939,1.40601291711156,-0.571303164418622
+"['Mission_success', 'Error_rotating_goal', 'Update_frequency_local']",-0.835623681333027,1.40589068235708,-0.570267001024057
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-0.854243420934485,-0.548942392623641,1.40318581355813
+"['Battery_percentage', 'Traveled_distance', 'DWA_failed', 'xy_goal_tolerance']",-0.854482099654813,-0.548666351531517,1.40314845118633
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Update_frequency_local']",-0.866822876919003,1.40112191945958,-0.534299042540574
+"['Mission_success', 'Mission_time', 'Cost_scaling_factor_global']",-0.866916623413906,1.40110580745965,-0.534189184045748
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.867085523555448,1.40107675142896,-0.533991227873508
+"['Battery_percentage', 'Combination_method_local']",-0.867119227193824,-0.533951721930011,1.40107094912383
+"['Battery_percentage', 'Transform_tolerance_global']",-0.901600866365633,1.39437709054911,-0.492776224183481
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.904579329997167,1.3937258958748,-0.489146565877627
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Goal_distance_bias']",-0.910478559621509,-0.481922176050592,1.3924007356721
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Occdist_scale']",-0.914651310057306,1.3914347149129,-0.476783404855599
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-0.918664784584532,-0.471818111210359,1.39048289579489
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.924386658355235,1.38908705522777,-0.464700396872533
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'Transform_tolerance_global']",-0.928411350869826,1.38807756735611,-0.459666216486282
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-0.931349329876507,-0.45597674384054,1.38732607371705
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Publish_frequency_global']",-0.936979536289674,-0.448871671763551,1.38585120805322
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'yaw_goal_tolerance']",-0.941180580924029,1.38472066167207,-0.443540080748039
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",-0.973810506127919,1.37503239689876,-0.401221890770843
+"['Mission_success', 'Error_rotating_goal', 'Publish_frequency_global']",-0.975806372097343,-0.398579438220224,1.37438581031757
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'Update_frequency_local']",-0.994528113561017,-0.373474350264095,1.36800246382511
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-0.999278629461606,-0.367010363931805,1.36628899339341
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'xy_goal_tolerance']",-1.00610197856991,-0.357657501749199,1.36375948031911
+"['Mission_success', 'Transform_tolerance_global']",-1.00843347739505,-0.354442938503926,1.36287641589897
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Publish_frequency_local']",-1.00940860079858,-0.353095622353912,1.36250422315249
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",-1.02126346377286,-0.336578810524366,1.35784227429723
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",-1.0261227862865,1.35585675418751,-0.32973396790101
+"['Battery_percentage', 'Traveled_distance', 'Update_frequency_global']",-1.04694733851936,-0.299888919625334,1.34683625814469
+"['Mission_success', 'Error_rotating_goal', 'Combination_method_local']",-1.07791955719168,-0.253862440547746,1.33178199773943
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.08348541889692,-0.245368788548055,1.32885420744498
+"['Mission_success', 'RNS', 'DWA_failed', 'yaw_goal_tolerance']",-1.08610931676635,1.32744927464785,-0.241339957881501
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Transform_tolerance_global']",-1.09033383209643,-0.234819687003035,1.32515351909947
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'Publish_frequency_global']",-1.09327399807283,1.32353079734696,-0.230256799274127
+"['Battery_percentage', 'Update_frequency_local']",-1.11098194603257,1.31330977503446,-0.202327829001883
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'Update_frequency_global']",-1.12752154796179,-0.175510062155216,1.30303161011701
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-1.13965489270824,-0.155355319674306,1.29501021238254
+"['Mission_success', 'Mission_time', 'Combination_method_global']",-1.15093462975193,1.28716395567761,-0.136229325925685
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'Update_frequency_local']",-1.17746901628259,-0.089627516717767,1.26709653300036
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.18164024737371,1.26372037211893,-0.08208012474522
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Update_frequency_local']",-1.18718231711211,-0.071952686319886,1.25913500343199
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-1.18904872307143,-0.068515871498184,1.25756459456962
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'Update_frequency_local']",-1.19451821581413,-0.058366298911622,1.25288451472575
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'Publish_frequency_global']",-1.20067154642925,1.24747631297117,-0.046804766541925
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-1.20218067345983,-0.043945492716592,1.24612616617643
+"['Battery_percentage', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.20505707711417,-0.038469184272551,1.24352626138673
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'Update_frequency_local']",-1.20820573015887,1.24063973377476,-0.032434003615888
+"['Mission_success', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.2108688075223,1.23816463713643,-0.027295829614129
+"['Battery_percentage', 'DWA_failed', 'Update_frequency_local']",-1.22061475405608,-0.008218868684681,1.22883362274076
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.22474665267684,3.56257826803692E-06,1.22474309009857
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.2346111031401,0.019976858133698,1.21463424500641
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'DWA_failed', 'yaw_goal_tolerance']",-1.24746374793441,1.20068564004563,0.046778107888774
+"['Mission_success', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.24960343083849,0.051331185027747,1.19827224581074
+"['Mission_success', 'yaw_goal_tolerance']",-1.25085500563827,1.19684794010875,0.054007065529522
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'xy_goal_tolerance']",-1.25872841376401,1.18766706849688,0.071061345267131
+"['Battery_percentage', 'Mission_time', 'Combination_method_global']",-1.2632012171643,1.18227475335015,0.080926463814153
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Update_frequency_local']",-1.26870744200591,0.093256622554699,1.17545081945121
+"['Mission_success', 'Error_rotating_goal', 'Transform_tolerance_global']",-1.27208553030275,0.100927074206159,1.17115845609659
+"['Mission_success', 'Update_frequency_local']",-1.27529986792409,0.10830346410076,1.16699640382333
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.28078858448397,1.1597067717682,0.121081812715769
+"['Mission_success', 'Mission_time', 'yaw_goal_tolerance']",-1.28486267992118,0.130722516205018,1.15414016371617
+"['Battery_percentage', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.289282962572,0.141340297285634,1.14794266528637
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'yaw_goal_tolerance']",-1.29369088444793,1.14159075207768,0.152100132370249
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Combination_method_local']",-1.30276342350638,1.12793768619948,0.174825737306896
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'Transform_tolerance_global']",-1.30370364206879,0.177228169872314,1.12647547219648
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Update_frequency_global']",-1.31308807577592,1.11135144651421,0.201736629261709
+"['Mission_success', 'Error_rotating_goal', 'Path_distance_bias']",-1.32619312310596,1.08843037183598,0.237762751269978
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.3299276556103,0.248467341466841,1.08146031414346
+"['Battery_percentage', 'Update_frequency_global']",-1.3347355016632,1.0721650525147,0.262570449148501
+"['Mission_success', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.34640262757409,0.29850146945003,1.04790115812406
+"['Battery_percentage', 'Error_rotating_goal', 'yaw_goal_tolerance']",-1.34672216163169,0.299523462955436,1.04719869867626
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'Path_distance_bias']",-1.34703367114698,0.300521907193456,1.04651176395352
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.34849744256,0.305241965844735,1.04325547671526
+"['Battery_percentage', 'DWA_failed', 'xy_goal_tolerance']",-1.3532147123854,1.0324267719611,0.320787940424299
+"['Battery_percentage', 'RNS', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'xy_goal_tolerance']",-1.35783257774619,0.336545118783734,1.02128745896245
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-1.3617097090035,0.350234224013878,1.01147548498962
+"['Battery_percentage', 'Mission_time', 'Traveled_distance', 'Publish_frequency_local']",-1.38134850423159,0.428172380897972,0.953176123333619
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.38139208266329,0.953025863247446,0.428366219415848
+"['Battery_percentage', 'Error_rotating_goal', 'Update_frequency_local']",-1.38173656655323,0.951833885391644,0.429902681161591
+"['Battery_percentage', 'RNS', 'DWA_failed', 'xy_goal_tolerance']",-1.38320264352637,0.436527145872619,0.946675497653749
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'min_vel_x']",-1.38591410177088,0.449171126590232,0.936742975180645
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'DWA_failed', 'xy_goal_tolerance']",-1.3923913622733,0.48187181242382,0.910519549849478
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'recovery_executed', 'DWA_new_plan', 'min_vel_x']",-1.39598703711194,0.893991335282535,0.501995701829399
+"['Battery_percentage', 'Traveled_distance', 'DWA_failed', 'Update_frequency_local']",-1.39608004120898,0.502539665352996,0.893540375855979
+"['Battery_percentage', 'Traveled_distance', 'RNS', 'DWA_failed', 'Update_frequency_local']",-1.39873852131346,0.880056592103545,0.518681929209918
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'DWA_failed', 'yaw_goal_tolerance']",-1.39878375977702,0.518967394194216,0.879816365582804
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'Path_distance_bias']",-1.39908528542775,0.520880187019729,0.878205098408021
+"['Mission_success', 'Error_rotating_goal', 'yaw_goal_tolerance']",-1.39982081269368,0.525622514448943,0.874198298244733
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.40065917277971,0.53116868286592,0.869490489913794
+"['Battery_percentage', 'xy_goal_tolerance']",-1.40295103132984,0.547215012722988,0.855736018606854
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'Update_frequency_local']",-1.40428966707063,0.846982322532483,0.557307344538142
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.40912986240708,0.808318355987758,0.600811506419322
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'DWA_failed', 'yaw_goal_tolerance']",-1.41014099248436,0.797950989277146,0.612190003207213
+"['Mission_success', 'Mission_time', 'Traveled_distance', 'RNS', 'Error_rotating_goal', 'yaw_goal_tolerance']",-1.41034207804298,0.614609362932413,0.795732715110564
+"['Mission_success', 'DWA_failed', 'yaw_goal_tolerance']",-1.41171142850061,0.633033108003459,0.778678320497148
+"['Mission_success', 'Mission_time', 'recovery_executed', 'DWA_new_plan', 'DWA_failed', 'yaw_goal_tolerance']",-1.41213295548472,0.639655732937782,0.772477222546935
+"['Mission_success', 'DWA_failed', 'Update_frequency_local']",-1.41241884593768,0.644526745254153,0.767892100683527
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'yaw_goal_tolerance']",-1.41250125469873,0.645999867139325,0.766501387559404
+"['Mission_success', 'RNS', 'Error_rotating_goal', 'yaw_goal_tolerance']",-1.41401501664037,0.727529436510797,0.686485580129568
+"['Mission_success', 'Mission_time', 'Path_distance_bias']",-1.41411561392989,0.692643479725664,0.72147213420423
+"['Battery_percentage', 'RNS', 'Error_rotating_goal', 'Update_frequency_local']",-1.4141602841788,0.717711133975935,0.696449150202869

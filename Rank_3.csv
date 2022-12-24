@@ -1,0 +1,6 @@
+bug_id,misconfigs_rank3
+bug_1.csv,min_vel_x
+bug_2.csv,yaw_goal_tolerance
+bug_3.csv,min_vel_x
+bug_4.csv,Update_frequency_global
+bug_5.csv,yaw_goal_tolerance

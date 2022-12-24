@@ -1,0 +1,6 @@
+bug_id,misconfigs_rank2
+bug_1.csv,Occdist_scale
+bug_2.csv,min_vel_x
+bug_3.csv,xy_goal_tolerance
+bug_4.csv,min_vel_x
+bug_5.csv,Occdist_scale
