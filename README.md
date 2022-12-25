@@ -30,8 +30,7 @@ python run_care_inference.py
 ```
 Buggy behaviors/Functional faults:
 
-<img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="250" height="150"/>
-<img src= "https://user-images.githubusercontent.com/73362969/209481283-ab2a1c2d-6c26-4da3-94b9-1c7f6f048342.gif" width="250" height="150"/>
+<img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="250" height="150"/> | <img src= "https://user-images.githubusercontent.com/73362969/209481283-ab2a1c2d-6c26-4da3-94b9-1c7f6f048342.gif" width="250" height="150"/>
 
 
 <p align="center">
