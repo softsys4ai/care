@@ -55,7 +55,7 @@ Example: Update the `run_care_training.py` as follows,
 ```
 
 ## Contacts
-Please please feel free to contact via email if you find any issues or have any feedbacks. Thank you for using Unicorn.
+Please feel free to contact via email if you find any issues or have any feedbacks. Thank you for using Care.
 |Name|Email|     
 |---------------|------------------|      
 |Md Abir Hossen|mhossen@email.sc.edu|        
