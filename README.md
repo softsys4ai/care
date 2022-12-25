@@ -1,4 +1,4 @@
-# CaRE
+# Care
 
 ## Overview
 <img src="https://user-images.githubusercontent.com/73362969/209476314-638d3e1a-256d-4f74-91e5-883ba8170577.png" width="400" height="300">
