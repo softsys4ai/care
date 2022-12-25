@@ -1,6 +1,0 @@
-bug_id,misconfigs_rank1
-bug_1.csv,Goal_distance_bias
-bug_2.csv,Occdist_scale
-bug_3.csv,Occdist_scale
-bug_4.csv,Occdist_scale
-bug_5.csv,Stop_time_buffer

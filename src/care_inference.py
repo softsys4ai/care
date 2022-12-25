@@ -224,8 +224,9 @@ class CARE_inf:
         r2 = root_causes.get('misconfigs_r2')
         r3 = root_causes.get('misconfigs_r3')
         rank_1, rank_2, rank_3 = CI.misconfigs(bug_idx, r1, r2, r3)
-
-        # print(tabulate(root_causes, headers='keys', tablefmt='rounded_outline'))  
+        # print(tabulate(pd.DataFrame([objective]),tablefmt='rounded_outline', showindex=False))
+        print(objective)
+        print(tabulate(root_causes, headers='keys', tablefmt='rounded_outline'))  
         # print(tabulate(rank_1, headers='keys', tablefmt='rounded_outline'))
         # print(tabulate(rank_2, headers='keys', tablefmt='rounded_outline'))
         # print(tabulate(rank_3, headers='keys', tablefmt='rounded_outline'))

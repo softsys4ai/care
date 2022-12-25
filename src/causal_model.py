@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 from causallearn.search.ConstraintBased.FCI import fci
 from causallearn.utils.cit import fisherz
@@ -184,8 +185,11 @@ class rcausal:
             for i in range(0, len(path)):
                 try:
                     if i > 0:
+                        save_stdout = sys.stdout
+                        sys.stdout = open('trash', 'w')
                         obj= CausalEffect(graph=G, treatment=path[i],outcome=path[0])
                         ace, Ql, Qu = obj.compute_effect(df, "gformula", n_bootstraps = 5, alpha=0.05) # computing the effect
+                        sys.stdout = save_stdout
                         ACE[str(path)] = [ace, Ql, Qu]
                         print({"Path": str(path), "ACE": ace, "Ql": Ql, "Qu": Qu})
                 except:
