@@ -10,9 +10,9 @@ Robotic systems have several subsystems that possess a huge combinatorial config
 - Observational data collection: Record the oversvational data using [Reval](https://github.com/softsys4ai/Reval), currently supports `Husky` and `Turtlebot-3`
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/73362969/167684493-9181c890-4ec4-4503-8dc1-ba59fffc19e4.gif" width="450" height="300"/>
+  <em>Husky-sim</em>
   <img src= "https://user-images.githubusercontent.com/73362969/209478527-f2ee23c1-532e-4fee-9a2f-30154cfb3d9c.gif" width="450" height="300"/>
-  
-  <em>Left: Husky-sim, Right: Turtlebot3-phy</em>
+  <em>Right: Turtlebot3-phy</em>
 </p>    
 - Run CARE: Using the given obervtional data
 
