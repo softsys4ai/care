@@ -24,7 +24,7 @@ python run_care_inference.py
 ```
 Buggy behaviors/Functional faults:
 
-<img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="250" height="150"/> <img src= "https://user-images.githubusercontent.com/73362969/209481283-ab2a1c2d-6c26-4da3-94b9-1c7f6f048342.gif" width="250" height="150"/> <img src="https://user-images.githubusercontent.com/73362969/209482130-e31f71bb-2c70-4754-8e5d-8bcf289fc8fe.gif" width="250" height="150"/> <img src="https://user-images.githubusercontent.com/73362969/209482202-a13922c6-4406-48b4-adc5-c1ea6122621c.gif" width="245" height="150"/>
+<img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="240" height="140"/> <img src= "https://user-images.githubusercontent.com/73362969/209481283-ab2a1c2d-6c26-4da3-94b9-1c7f6f048342.gif" width="240" height="140"/> <img src="https://user-images.githubusercontent.com/73362969/209482130-e31f71bb-2c70-4754-8e5d-8bcf289fc8fe.gif" width="240" height="140"/> <img src="https://user-images.githubusercontent.com/73362969/209482202-a13922c6-4406-48b4-adc5-c1ea6122621c.gif" width="240" height="140"/>
 
 Diagnoisng the root causes of the functional faults using CARE:
 
