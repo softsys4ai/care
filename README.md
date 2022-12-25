@@ -31,8 +31,8 @@ CARE can be applied to a different robotic system, given the observational data 
 Example: Update the `run_care_training.py` as follows,
 
 ```python
-    # read the observational
-    df = pd.read_csv('observational_data')
+    # read the observational data
+    df = pd.read_csv('observational_data.csv') # replace with your csv file
     # read all columns
     columns = df.columns
     # Manipulable variables (e.g., configuration options)
