@@ -24,7 +24,9 @@ python run_care_inference.py
 Buggy behaviors/Functional faults:
 
 <img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="200" height="100"/> <img src= "https://user-images.githubusercontent.com/73362969/209481283-ab2a1c2d-6c26-4da3-94b9-1c7f6f048342.gif" width="200" height="100"/> <img src="https://user-images.githubusercontent.com/73362969/209482130-e31f71bb-2c70-4754-8e5d-8bcf289fc8fe.gif" width="200" height="100"/> <img src="https://user-images.githubusercontent.com/73362969/209482202-a13922c6-4406-48b4-adc5-c1ea6122621c.gif" width="200" height="100"/>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73362969/209482635-1245e414-c0c9-45df-96d7-331b0c2fee97.gif" width="200" height="100"/> <img src="https://user-images.githubusercontent.com/73362969/209482652-7ef091b1-d9bb-4ee5-a3af-5e2d37cb0603.gif" width="200" height="100"/>
+</p> 
 Diagnoisng the root causes of the functional faults using CARE:
 
 <p align="center">
@@ -51,3 +53,4 @@ Example: Update the `run_care_training.py` as follows,
     perf_objective = ['Battery_percentage','Mission_success'] # replace with your own labels
     objectives = df[perf_objective]
 ```
+
