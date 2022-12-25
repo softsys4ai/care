@@ -13,9 +13,12 @@ Robotic systems have several subsystems that possess a huge combinatorial config
   <img src= "https://user-images.githubusercontent.com/73362969/209478527-f2ee23c1-532e-4fee-9a2f-30154cfb3d9c.gif" width="500" height="300"/>
    <em>Left: Husky-sim, Right: Turtlebot3-phy</em>
 </p>  
-- Training:
+- Run CARE:
 
 ```python
+# Traning
+python run_care_training.py
+# Inference
 python run_care_inference.py
 ```
 <p align="center">
