@@ -28,6 +28,9 @@ python run_care_training.py
 # Inference
 python run_care_inference.py
 ```
+Buggy behaviors
+
+<img src= "https://user-images.githubusercontent.com/73362969/209481188-f7aadbd1-6505-4250-8e55-52582c887c25.gif" width="250" height="150"/>
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/73362969/209478776-9d4e4f94-c525-4002-9ae0-4b1245266ca5.gif"/>
 </p> 
