@@ -54,3 +54,13 @@ Example: Update the `run_care_training.py` as follows,
     objectives = df[perf_objective]
 ```
 
+## Contacts
+Please please feel free to contact via email if you find any issues or have any feedbacks. Thank you for using Unicorn.
+|Name|Email|     
+|---------------|------------------|      
+|Md Abir Hossen|mhossen@email.sc.edu|        
+|Pooyan Jamshidi|pjamshid@cse.sc.edu|     
+
+## 📘&nbsp; License
+Care is released under the terms of the [MIT License](./LICENSE).
+
