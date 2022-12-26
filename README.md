@@ -45,13 +45,10 @@ Example: Update the `run_care_training.py` as follows,
     columns = df.columns
     # Manipulable variables (e.g., configuration options)
     manipulable_variables = ['Cost_scaling_factor_global','Occdist_scale'] # replace with your own labels
-    config_options = df[manipulable_variables]
     # Non-manipulable variables (e.g., evaluation metrics)
     non_manipulable_variables = ['Traveled_distance','Mission_time'] # replace with your own labels
-    evaluation_metrics = df[non_manipulable_variables]  
     # Performance objective (e.g., energy, mission success)
     perf_objective = ['Battery_percentage','Mission_success'] # replace with your own labels
-    objectives = df[perf_objective]
 ```
 
 ## Contacts
