@@ -134,8 +134,6 @@ def main():
     plt.rcParams.update({'figure.figsize':(4.5,3)})
     plt.errorbar(sample_size,husky_sim_rmse, yerr=(husky_sim_yerr) , marker='o', markersize=5,
                     linestyle='solid', color='b', alpha=0.4, label='Husky simulator')
-    # plt.errorbar(sample_size,RMSE_ms_real, yerr=(YERR_ms_real) , marker='o', markersize=5,
-    #                 linestyle='dotted', color='r', alpha=0.6, label='Husky physical')
     plt.errorbar(sample_size,turtlebot3_phy_rmse, yerr=(turtlebot3_phy_yerr) , marker='o', markersize=5,
                     linestyle='dotted', color='r', alpha=0.4, label='Turtlebot3 physical')
 
