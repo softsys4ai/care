@@ -9,7 +9,7 @@ from matplotlib.legend_handler import HandlerTuple
 from matplotlib.colors import to_rgb
 import seaborn as sns
 
-
+## compute the ranks of the causal path
 def ranking():
     raw = pd.read_csv('result/care_ace_result.csv', names=['Path', 'ACE', 'Ql', 'Qu'])
     data = [raw['Path'], abs(raw['ACE']), abs(raw['Ql']), abs(raw['Qu'])]
@@ -83,7 +83,9 @@ def MS_rank():
     plt.yticks(fontsize=labelsize)
     plt.legend(handles=legend_elements, fontsize=22, loc='center left', framealpha=0.8)
     plt.gca().yaxis.grid(True, alpha=0.5)
-    plt.savefig('fig/rank_paths_mission_RAL.pdf', dpi=100, bbox_inches='tight')         
+    plt.savefig('fig/rank_paths_mission_RAL.pdf', dpi=100, bbox_inches='tight')      
+
+## -----------------------------------------------------------------------------       
 
 ### validating ranks
 def energy():
@@ -290,3 +292,6 @@ def MS_erg():
     plt.legend([],[], frameon=False)
     sns.set_style("ticks",{'axes.grid' : True})
     plt.savefig('fig/rank_ms_erg.pdf', dpi=100, bbox_inches='tight')   
+
+## -----------------------------------------------------------------------------       
+
