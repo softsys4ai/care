@@ -6,7 +6,13 @@
 ## Abstract
 Robotic systems have several subsystems that possess a huge combinatorial configuration space and hundreds or even thousands of possible software and hardware configuration options interacting non-trivially. The configurable parameters can be tailored to target specific objectives, but when incorrectly configured, can cause functional faults. Finding the root cause of such faults and understanding the performance behavior is extremely challenging due to the vast and variable space, and the dependencies with the robots’ configuration settings and performance. This paper proposes CARE, a method for diagnosing the root cause of the functional faults through the lens of causality which abstracts the effects of environment configurations (e.g., obstacles) on robotic systems. We demonstrate CARE's efficacy by evaluating the diagnosed root cause of the functional faults, conducting experiments both in physical robots(Husky, and Turtlebot-3) and simulator (Husky). Furthermore, we demonstrate CARE's transferability reusing the causal performance model--- learned from the Husky simulator, for a different robotic system Turtlebot-3 physical platform).
 
-# How to use Care
+## Installation
+```sh
+git clone https://github.com/softsys4ai/care.git
+cd ~/care && pip install -r requirements.txt
+```
+
+## How to use Care
 - Observational data collection: Record the oversvational data using [Reval](https://github.com/softsys4ai/Reval), currently supports `Husky` and `Turtlebot-3`
 
 <p align="center">
@@ -33,8 +39,12 @@ Diagnoisng the root causes of the functional faults using CARE:
   <img src= "https://user-images.githubusercontent.com/73362969/209478776-9d4e4f94-c525-4002-9ae0-4b1245266ca5.gif"/>
 </p> 
 
+## Experiments
+- Root-cause Verification Experiment: We first train the causal model using the observational data, and compute the ranks of the causal paths (the path’s ranks are provided in the `./care/result/rank_path.csv` file). We conduct 50 trials for each rank and recorded the energy, mission success, and evaluation metrics both in Husky simulator and physical robot. We provide the result of the trails in the `./care/result/exp` directory. To reproduce the results, we provide several functions in the `care_rootcause_viz.py` script.
+- ransferability Experiment: We reuse the causal model constructed from the Husky simulator to determine the root-cause of the functional faults in the Turtlebot-3 physical robot. The list of root causes for different ranks are printed in the terminal along with the accuracy, precision, and recall. To reproduce the results, we provide the `care_transferibility_viz.py` script that produces the RMSE plot in the `./care/fig directory`.
+
 ## Customization
-CARE can be applied to a different robotic system, given the observational data as `pandas.Dataframe`.
+CARE can be applied to a different robotic system, given the observational data as a `pandas.Dataframe`.
 
 Example: Update the `run_care_training.py` as follows,
 
