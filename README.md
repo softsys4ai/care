@@ -33,7 +33,7 @@ Buggy behaviors/Functional faults:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73362969/209482635-1245e414-c0c9-45df-96d7-331b0c2fee97.gif" width="200" height="110"/> <img src="https://user-images.githubusercontent.com/73362969/209482652-7ef091b1-d9bb-4ee5-a3af-5e2d37cb0603.gif" width="200" height="105"/>
 </p> 
-Diagnoisng the root causes of the functional faults using CARE:
+Diagnosing the root causes of the functional faults using CARE:
 
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/73362969/209478776-9d4e4f94-c525-4002-9ae0-4b1245266ca5.gif"/>
