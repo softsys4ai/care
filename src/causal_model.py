@@ -1,5 +1,6 @@
 import sys
 import pandas as pd
+import numpy as np
 from causallearn.search.ConstraintBased.FCI import fci
 from causallearn.utils.cit import fisherz
 from causallearn.utils.GraphUtils import GraphUtils
@@ -57,7 +58,8 @@ class rcausal:
 
     def care_fci(self, df, tabu_edges_remove, alpha):
             """This function is used to learn model using FCI"""
-            G, edges = fci(df, fisherz, 0.05, verbose=False)  
+            df_arr = np.array(df)
+            G, edges = fci(df_arr, fisherz, 0.05, verbose=False)  
             nodes = G.get_nodes()   
             
             bk = BackgroundKnowledge()  
@@ -68,7 +70,7 @@ class rcausal:
             bk.add_forbidden_by_node(nodes[22], nodes[26])
             # bk.add_required_by_node(nodes[26], nodes[25])
             # bk.add_required_by_node(nodes[25], nodes[26])
-            G, edges = fci(df, fisherz, alpha, verbose=True, background_knowledge=bk)
+            G, edges = fci(df_arr, fisherz, alpha, verbose=True, background_knowledge=bk)
 
             fci_edges = []
             for edge in edges:
