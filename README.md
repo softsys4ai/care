@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7529716.svg)](https://doi.org/10.5281/zenodo.7529716)
 # Care
 - [Paper](https://ieeexplore.ieee.org/abstract/document/10137745)
 - [Presentation](https://youtu.be/OomZr99hEKI?si=0t2b5IoywIdEYjEn)
