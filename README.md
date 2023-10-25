@@ -1,4 +1,6 @@
 # Care
+- [Paper](https://ieeexplore.ieee.org/abstract/document/10137745)
+- [Presentation](https://youtu.be/OomZr99hEKI?si=0t2b5IoywIdEYjEn)
 
 ## Overview
 <img src="https://user-images.githubusercontent.com/73362969/209476314-638d3e1a-256d-4f74-91e5-883ba8170577.png" width="400" height="300">
