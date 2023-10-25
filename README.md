@@ -62,6 +62,20 @@ Example: Update the `run_care_training.py` as follows,
     # Performance objective (e.g., energy, mission success)
     perf_objective = ['Battery_percentage','Mission_success'] # replace with your own labels
 ```
+## How to cite
+If you use Care in your research or the dataset in this repository please cite the following:
+```
+@ARTICLE{10137745,
+  author={Hossen, Md Abir and Kharade, Sonam and Schmerl, Bradley and Cámara, Javier and O'Kane, Jason M. and Czaplinski, Ellen C. and Dzurilla, Katherine A. and Garlan, David and Jamshidi, Pooyan},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots}, 
+  year={2023},
+  volume={8},
+  number={7},
+  pages={4115-4122},
+  doi={10.1109/LRA.2023.3280810}}
+}
+```
 
 ## Contacts
 Please feel free to contact via email if you find any issues or have any feedbacks. Thank you for using Care.
