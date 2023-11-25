@@ -9,7 +9,7 @@ bug_value = 10
 CBI = DebuggingBaseline()
 
 cbi_rootcause = CBI.measure_cbi_importance(data=outlier_data, 
-                                            config_colmuns=config_columns,
+                                            config_columns=config_columns,
                                             objective="Battery_percentage", 
                                             bug_val=bug_value,
                                             top_k=18)
