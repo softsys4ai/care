@@ -79,14 +79,7 @@ class rcausal:
             print(fci_edges) 
         
             # Viz
-            pdy = GraphUtils.to_pydot(G, edges,labels=['Cost_scaling_factor_global','Update_frequency_global','Publish_frequency_global',
-                                                       'Transform_tolerance_global','Combination_method_global',
-                                                       'Cost_scaling_factor_local','Inflation_radius_local','Update_frequency_local',
-                                                       'Publish_frequency_local','Combination_method_local', 'Transform_tolerance_local',
-                                                       'Path_distance_bias','Goal_distance_bias','Occdist_scale',
-                                                       'Stop_time_buffer','yaw_goal_tolerance','xy_goal_tolerance','min_vel_x','DWA_new_plan',
-                                                       'recovery_executed','RNS','Traveled_distance','Mission_time', 'DWA_failed', 'Error_rotating_goal',
-                                                       'Battery_percentage','Mission_success'])          
+            pdy = GraphUtils.to_pydot(G, edges,labels=df.columns.to_list())          
             pdy.write_png('fig/FCI.png')
             pdy = GraphUtils.to_pydot(G, edges)          
             pdy.write_png('fig/FCI_label.png')
