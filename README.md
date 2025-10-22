@@ -14,7 +14,7 @@ source .venv/bin/activate
 ```
 
 ## Usage
-Please check the 
+Please check the [example.ipynb](https://github.com/softsys4ai/care/blob/causal_model/example.ipynb)
 
 ## How to cite
 If you use Care in your research or the dataset in this repository please cite the following:
