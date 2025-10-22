@@ -1,0 +1,14 @@
+[project]
+name = "care"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "networkx==3.4.2",
+    "pydot==2.0",
+    "rich==14.0.0",
+    "graphviz==0.20.3",
+    "causal-learn==0.1.4.1",
+    "pydantic==2.11"
+]
