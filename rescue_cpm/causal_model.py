@@ -938,7 +938,7 @@ class CausalPerformanceModel:
         2. Identifies partially directed edges in the learned graph (only FCI).
         3. Resolves partially directed edges using latent search (only FCI).
         4. For PC, undirected edges are ignored.
-        5. Returns the final causal graph as a networkx DiGraph.
+        5. Returns the final causal graph as Dot.
 
         Args:
             alpha (float): The significance level for the conditional independence tests.
